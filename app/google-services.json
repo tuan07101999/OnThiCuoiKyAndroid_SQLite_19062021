@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282514660107",
+    "project_id": "ontapcuoiky-c3fe2",
+    "storage_bucket": "ontapcuoiky-c3fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282514660107:android:9670a41e295ca093c0e00e",
+        "android_client_info": {
+          "package_name": "com.example.booksqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282514660107-fhh3lvejvrcku6k354mpicqh7t8lmc10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0S5qWsyeWXa1f_CKpry_qeG7W7e13DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282514660107-fhh3lvejvrcku6k354mpicqh7t8lmc10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
